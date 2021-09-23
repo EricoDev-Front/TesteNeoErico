@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "name": "Velozes & Furiosos 9",
+      "year": "2021",
+      "director": "Justin Lin",
+      "genre": "Ação",
+      "description": "Dominic Toretto e Letty vivem uma vida pacata ao lado do filho. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob, que retorna e está trabalhando ao lado de Cipher. Cabe a Dom reunir a equipe novamente para enfrentá-los.",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwDHN5hvQcPHLoL-YCwjcZBB5ZfLOusNkjnQmXd1AXz0TbE0du"
+    },
+    {
+      "name": "It - A Coisa",
+      "year": "2017",
+      "director": "Andy Muschietti",
+      "genre": "Terror",
+      "description": "Um grupo de crianças se une para investigar o misterioso desaparecimento de vários jovens em sua cidade.",
+      "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPUz4GI_FIhrEkia7aqy8TQ3sdf_SQsJ7jyzaQkNjIWAZv5AiM"
+    },
+    {
+      "name": "Harry Potter e a Pedra Filosofal",
+      "year": "2001",
+      "director": "Chris Columbus",
+      "genre": "Aventura",
+      "description": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttdJLvcH858KK2S4BdrDfOfGcTNmUAr96PoVoiq8Nd24pVHlO"
+    },
+    {
+      "name": "Transformers",
+      "year": "2007",
+      "director": "Michael Bay",
+      "genre": "Ação",
+      "description": "O destino da humanidade está em jogo quando duas raças de robôs, os Autobots e os vilões Decepticons, chegam à Terra. Os robôs possuem a capacidade de se transformarem em diferentes objetos mecânicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/e/ee/Transformers-poster.jpg"
+    },
+    {
+      "name": "Um Lugar Silencioso",
+      "year": "2018",
+      "director": "John Krasinski",
+      "genre": "Terror",
+      "description": "Em uma fazenda nos Estados Unidos, uma família do Meio-Oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.",
+      "poster": "https://br.web.img3.acsta.net/pictures/18/03/01/20/26/0577579.jpg"
+    },
+    {
+      "name": "Vingadores: Endgame",
+      "year": "2019",
+      "director": "Anthony Russo e Joe Russo",
+      "genre": "Ação",
+      "description": "Após Thyears eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romyearv lideram a resistência contra o titã louco.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg"
+    },
+    {
+      "name": "Godzilla vs. Kong",
+      "year": "2021",
+      "director": "Adam Wingard",
+      "genre": "Ação",
+      "description": "Kong e seus protetores embarcam em uma jornada perigosa para encontrar seu verdadeiro lar. Jia, uma garota órfã que tem um vínculo único e poderoso com a poderosa besta, acompanha a aventura. No entanto, eles logo se encontram no caminho de Godzilla, completamente enfurecido, deixando um rastro de destruição em todo o mundo. O confronto inicial entre os dois titãs, instigado por forças misteriosas, é apenas o começo do enigma que reside nas profundezas do planeta.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/ea/Godzilla_vs._Kong.jpg/250px-Godzilla_vs._Kong.jpg"
+    }
+  ]
+}

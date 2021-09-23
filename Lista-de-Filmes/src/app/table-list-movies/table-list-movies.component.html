@@ -1,0 +1,20 @@
+<h1>Lista de Filmes</h1>
+<table class="rwd-table" *ngFor="let movie of movies">
+  <tr>
+    <th>Nome</th>
+    <th>Ano</th>
+    <th>Diretor</th>
+    <th>Gênero</th>
+    <th>Descrição</th>
+    <th>Poster</th>
+  </tr>
+  <tr class="containerTr" >
+    <td class="name">{{ movie.name }}</td>
+    <td class="year">{{ movie.year }}</td>
+    <td class="director">{{ movie.director }}</td>
+    <td class="genre">{{ movie.genre }}</td>
+    <td class="description"><p>{{ movie.description }}</p></td>
+    <td class="poster"><img [src]="movie.poster"/></td>
+  </tr>
+  
+</table>

@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 40vh 40vh;
+  gap: 20px;
+  .itemUm {
+    background-color: blue;
+    grid-row-end: 3;
+    grid-row-start: 1;
+  }
+  .itemDois {
+    background: rgb(120, 121, 9);
+    background: linear-gradient(
+      90deg,
+      rgba(120, 121, 9, 1) 0%,
+      rgba(255, 0, 129, 1) 0%,
+      rgba(245, 255, 0, 1) 100%
+    );
+  }
+  .itemTres {
+    background: url(https://picsum.photos/643) no-repeat;
+
+    grid-column-start: 2;
+    grid-column-end: 4;
+    padding-top: 30px;
+
+    p {
+      color: white;
+      text-align: center;
+    }
+  }
+}
